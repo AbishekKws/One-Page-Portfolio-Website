@@ -83,6 +83,9 @@
     box-shadow: 0 0 15px 8px rgb(188, 188, 222);
     background: linear-gradient(to right, rgb(103, 255, 103), rgb(253, 129, 129),rgb(241, 49, 238));
 }
+.cv button a{
+    text-decoration: none;
+}
 .cv button:hover{
     color: rgb(0, 221, 255);
     background: linear-gradient(to right, rgb(241, 49, 238), rgb(253, 129, 129),rgb(103, 255, 103));
